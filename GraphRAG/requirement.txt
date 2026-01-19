@@ -1,0 +1,12 @@
+faiss-cpu 
+futures 
+langchain 
+langchain-openai 
+matplotlib 
+networkx 
+nltk 
+numpy 
+python-dotenv 
+scikit-learn 
+spacy 
+tqdm
